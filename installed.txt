@@ -1,0 +1,8 @@
+com.chrisrm.idea.MaterialThemeUI
+com.dmarcotte.handlebars
+com.intellij.ideolog
+com.mallowigi
+de.espend.idea.php.annotation
+fr.adrienbrault.idea.symfony2plugin
+io.zhile.research.ide-eval-resetter
+ru.adelf.idea.dotenv
